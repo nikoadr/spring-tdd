@@ -1,0 +1,1 @@
+insert into cat (id,name,date_of_birth) values ( nextval('hibernate_sequence'),'Ginger','2021-04-01');
